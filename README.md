@@ -45,14 +45,16 @@ Every detail—from the slick neon visuals to the code snippets and step-by-step
 
 2. **Review the Directory Structure:**
 
-TrackTheHacker.com/
-├── assets/
-│   ├── images/       # All visual assets and retro cyber graphics
-│   └── fonts/        # Custom retro fonts for a vintage vibe
-├── blog_posts/       # Markdown files for each investigative case file
-├── code/             # Website templates, CSS, JS, and HTML
-├── docs/             # Setup guides, documentation, and change logs
-└── README.md         # This file, your project guide!
+   ~~~bash
+   TrackTheHacker.com/
+   ├── assets/
+   │   ├── images/       # All visual assets and retro cyber graphics
+   │   └── fonts/        # Custom retro fonts for a vintage vibe
+   ├── blog_posts/       # Markdown files for each investigative case file
+   ├── code/             # Website templates, CSS, JS, and HTML
+   ├── docs/             # Setup guides, documentation, and change logs
+   └── README.md         # This file, your project guide!
+   ~~~
 
 3. **Deploying the Site:**
 If you’re using GoDaddy templates or another hosting platform, refer to your deployment instructions in the `docs/setup_guide.md` file. Every change is tracked on GitHub for transparency, so updates are as simple as a commit and push.
