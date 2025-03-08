@@ -45,7 +45,7 @@ Every detail—from the slick neon visuals to the code snippets and step-by-step
 
 2. **Review the Directory Structure:**
 
- TrackTheHacker.com/
+TrackTheHacker.com/
 ├── assets/
 │   ├── images/       # All visual assets and retro cyber graphics
 │   └── fonts/        # Custom retro fonts for a vintage vibe
